@@ -1,8 +1,8 @@
 ### Hi there, I am <a href="https://janlauge.github.io/about/">Laurens</a> 👋
 
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
-![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
+[![GitHub](https://img.shields.io/github/followers/janlauge.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/janlauge.svg?style=social)](http://bit.ly/2VHxROX)
+![Views](https://komarev.com/ghpvc/?username=janlauge&color=yellow)
 
 ![Laurens's github stats](https://github-readme-stats.vercel.app/api?username=janlauge&hide=contribs,issues&show_icons=true)
 
